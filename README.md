@@ -28,7 +28,7 @@ options:
 
 Changelog
 ---------
-* version 1.3 - 2025-09-07: Publication on pypi.org
+* version 1.2 - 2025-09-07: Publication on pypi.org
 
 Copyright and license
 ---------------------
