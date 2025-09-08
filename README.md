@@ -9,7 +9,8 @@ A simple script to bulk save URLs to the archive.org Wayback Machine.
 Usage
 -----
 ```
-$ python3 -Wall waybacksavebulk.py -h
+$ pip install waybacksavebulk
+$ waybacksavebulk -h
 usage: waybacksavebulk.py [-h] -i INPUT_FILE [-s OUTPUT_SUCCESS] [-f OUTPUT_FAILED] [-q]
 
 version: 1.2
